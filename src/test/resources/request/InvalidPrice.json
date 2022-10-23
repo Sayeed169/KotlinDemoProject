@@ -1,0 +1,6 @@
+{
+  "price": "ABC",
+  "price_modifier": 0.95,
+  "payment_method": "VISA",
+  "datetime": "2022-09-01T00:00:12Z"
+}
